@@ -1,0 +1,28 @@
+.screen{
+    width:1280px;
+    height: 810px;
+    background:cornflowerblue;
+}
+.change{
+    float: left;
+    border: yellow; 
+}
+.content{
+    width: 100%;
+    height: 16%;
+    border: 1px solid #000000;
+    background: #cccccc;
+    display: inline-block;
+}
+img{
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+p{
+    display: inline-block;
+    font-size: 20px;
+    width: 50%;
+    color: white;
+    text-indent: 2em;
+}
